@@ -1,1 +1,2 @@
 # Airbnb_pricing_and_segmentation
+The goal of this project was to build several machine learning models that could accurately predict the prices of Airbnb stays across New York City. Another purpose of this project was to group specific Airbnbs together based on characteristics using unsupervised learning models. Both of these would be able to help investors venture into the business of Airbnb stays. 
